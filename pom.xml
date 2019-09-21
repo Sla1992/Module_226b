@@ -8,9 +8,12 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.example.studentdal</groupId>
     <artifactId>studentdal</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
     <name>studentdal</name>
     <description>Studentenverwaltung</description>
 

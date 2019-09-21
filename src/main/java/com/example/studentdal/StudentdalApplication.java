@@ -1,4 +1,4 @@
-package com.example.studentdal.studentdal;
+package com.example.studentdal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
