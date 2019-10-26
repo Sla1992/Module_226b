@@ -15,7 +15,7 @@ public class StudentController {
     @Autowired
     StudentService service;
 
-    @RequestMapping("/showStudent")
+    @RequestMapping("/showCreate")
     public String showStudent(){
         return "createStudent";
     }
